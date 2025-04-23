@@ -1,0 +1,33 @@
+body {
+    background-color: #f0f8ff; /* Light blue */
+    color: #333; /* Dark text for readability */
+}
+
+h1, h2 {
+    color: #ff7f50; /* Light orange */
+    font-family: Arial, sans-serif; /* Font family */
+}
+
+nav a {
+    color: #ff7f50; /* Light orange */
+    margin: 0 10px;
+}
+
+.style1 {
+    background-color: #ffffff; /* White */
+    padding: 10px;
+    margin: 10px;
+}
+
+.style2 {
+    background-color: #ff7f50; /* Light orange */
+    padding: 10px;
+    margin: 10px;
+}
+
+.style3 {
+    background-color: #f0f8ff; /* Light blue */
+    padding: 10px;
+    margin: 10px;
+}
+
